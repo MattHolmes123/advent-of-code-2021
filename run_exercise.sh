@@ -1,3 +1,6 @@
 #!/bin/bash
 
-PYTHONPATH=. python src/day_1/part_one.py
+export PYTHONPATH=$PYTHONPATH:.
+
+python src/day_2/part_one.py
+python src/day_2/part_two.py
