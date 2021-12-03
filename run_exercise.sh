@@ -2,5 +2,5 @@
 
 export PYTHONPATH=$PYTHONPATH:.
 
-python src/day_2/part_one.py
-python src/day_2/part_two.py
+python src/day_3/part_one.py
+python src/day_3/part_two.py
